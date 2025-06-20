@@ -96,8 +96,8 @@
       "category": "fiction",
       "trending": true,
       "coverImage": "book-10.png",
-      "oldPrice": 14.99,
-      "newPrice": 10.99
+      "oldPrice": 599,
+      "newPrice": 399
     },
     {
       "_id": 11,
@@ -106,8 +106,8 @@
       "category": "fiction",
       "trending": true,
       "coverImage": "book-11.png",
-      "oldPrice": 32.99,
-      "newPrice": 25.99
+      "oldPrice": 999,
+      "newPrice": 599
     },
     {
       "_id": 12,
@@ -116,8 +116,8 @@
       "category": "business",
       "trending": true,
       "coverImage": "book-12.png",
-      "oldPrice": 19.99,
-      "newPrice": 9.99
+      "oldPrice": 199,
+      "newPrice": 599
     },
     {
       "_id": 13,
@@ -126,8 +126,8 @@
       "category": "horror",
       "trending": true,
       "coverImage": "book-13.png",
-      "oldPrice": 26.99,
-      "newPrice": 21.99
+      "oldPrice": 299,
+      "newPrice": 299
     },
     {
       "_id": 14,
@@ -136,8 +136,8 @@
       "category": "fiction",
       "trending": false,
       "coverImage": "book-14.png",
-      "oldPrice": 34.99,
-      "newPrice": 24.99
+      "oldPrice": 399,
+      "newPrice": 299
     },
     {
       "_id": 15,
@@ -146,8 +146,8 @@
       "category": "fiction",
       "trending": false,
       "coverImage": "book-15.png",
-      "oldPrice": 22.99,
-      "newPrice": 12.99
+      "oldPrice": 299,
+      "newPrice": 199
     },
     {
       "_id": 16,
@@ -156,8 +156,8 @@
       "category": "fiction",
       "trending": false,
       "coverImage": "book-16.png",
-      "oldPrice": 24.99,
-      "newPrice": 19.99
+      "oldPrice": 299,
+      "newPrice": 199
     },
     {
       "_id": 17,
@@ -166,8 +166,8 @@
       "category": "adventure",
       "trending": true,
       "coverImage": "book-17.png",
-      "oldPrice": 49.99,
-      "newPrice": 39.99
+      "oldPrice": 499,
+      "newPrice": 399
     },
     {
       "_id": 18,
@@ -176,8 +176,8 @@
       "category": "business",
       "trending": true,
       "coverImage": "book-18.png",
-      "oldPrice": 18.99,
-      "newPrice": 12.99
+      "oldPrice": 199,
+      "newPrice": 199
     },
     {
       "_id": 19,
@@ -186,8 +186,8 @@
       "category": "adventure",
       "trending": true,
       "coverImage": "book-19.png",
-      "oldPrice": 35.99,
-      "newPrice": 27.99
+      "oldPrice": 399,
+      "newPrice": 299
     },
     {
       "_id": 20,
@@ -196,8 +196,40 @@
       "category": "business",
       "trending": false,
       "coverImage": "book-20.png",
-      "oldPrice": 24.99,
-      "newPrice": 14.99
+      "oldPrice": 299,
+      "newPrice": 199
+    },
+    {
+      "_id": 21,
+      "title": "MERN stack",
+      "description":"MERN is a full-stack JavaScript framework combining MongoDB, Express.js, React.js, and Node.js to build dynamic web applications.",
+      "category": "full stack",
+      "trending": true,
+      "coverImage": "book-21.png",
+      "oldPrice": 899,
+      "newPrice": 499
     }
+    {
+      "_id": 22,
+      "title": "Python",
+      "description": "Python is a high-level, versatile programming language known for its readability and wide range of applications, from web development to data science.",
+      "category": "programming",
+      "trending": true,
+      "coverImage": "book-22.png",
+      "oldPrice": 799,
+      "newPrice": 299
+    }
+    {
+      "_id": 23,
+      "title": "Java",
+      "description": "Java is a versatile, object-oriented programming language designed for portability and used to build cross-platform applications, from web to mobile and enterprise systems.",
+      "category": "programming",
+      "trending": true,
+      "coverImage": "book-23.png",
+      "oldPrice": 999,
+      "newPrice": 899
+    }
+    
+
   ]
   

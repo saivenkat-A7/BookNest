@@ -6,44 +6,44 @@ import { useAddBookMutation } from '../../../redux/features/books/booksApi';
 import Swal from 'sweetalert2';
 
 const AddBook = () => {
-    const { register, handleSubmit, formState: { errors }, reset } = useForm();
-    const [imageFile, setimageFile] = useState(null);
-    const [addBook, {isLoading, isError}] = useAddBookMutation()
-    const [imageFileName, setimageFileName] = useState('')
-    const onSubmit = async (data) => {
- 
-        const newBookData = {
-            ...data,
-            coverImage: imageFileName
-        }
-        try {
-            await addBook(newBookData).unwrap();
-            Swal.fire({
-                title: "Book added",
-                text: "Your book is uploaded successfully!",
-                icon: "success",
-                showCancelButton: true,
-                confirmButtonColor: "#3085d6",
-                cancelButtonColor: "#d33",
-                confirmButtonText: "Yes, It's Okay!"
-              });
-              reset();
-              setimageFileName('')
-              setimageFile(null);
-        } catch (error) {
-            console.error(error);
-            alert("Failed to add book. Please try again.")   
-        }
-      
+  const { register, handleSubmit, formState: { errors }, reset } = useForm();
+  const [imageFile, setimageFile] = useState(null);
+  const [addBook, { isLoading, isError }] = useAddBookMutation()
+  const [imageFileName, setimageFileName] = useState('')
+  const onSubmit = async (data) => {
+
+    const newBookData = {
+      ...data,
+      coverImage: imageFileName
+    }
+    try {
+      await addBook(newBookData).unwrap();
+      Swal.fire({
+        title: "Book added",
+        text: "Your book is uploaded successfully!",
+        icon: "success",
+        showCancelButton: true,
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText: "Yes, It's Okay!"
+      });
+      reset();
+      setimageFileName('')
+      setimageFile(null);
+    } catch (error) {
+      console.error(error);
+      alert("Failed to add book. Please try again.")
     }
 
-    const handleFileChange = (e) => {
-        const file = e.target.files[0];
-        if(file) {
-            setimageFile(file);
-            setimageFileName(file.name);
-        }
+  }
+
+  const handleFileChange = (e) => {
+    const file = e.target.files[0];
+    if (file) {
+      setimageFile(file);
+      setimageFileName(file.name);
     }
+  }
   return (
     <div className="max-w-lg   mx-auto md:p-6 p-3 bg-white rounded-lg shadow-md">
       <h2 className="text-2xl font-bold text-gray-800 mb-4">Add New Book</h2>
@@ -79,6 +79,8 @@ const AddBook = () => {
             { value: 'fiction', label: 'Fiction' },
             { value: 'horror', label: 'Horror' },
             { value: 'adventure', label: 'Adventure' },
+            { value: 'full stack', label: 'Full stack' },
+            { value: 'programming', label: 'Programming' },
             // Add more options as needed
           ]}
           register={register}
@@ -103,7 +105,7 @@ const AddBook = () => {
           type="number"
           placeholder="Old Price"
           register={register}
-         
+
         />
 
         {/* New Price */}
@@ -113,7 +115,7 @@ const AddBook = () => {
           type="number"
           placeholder="New Price"
           register={register}
-          
+
         />
 
         {/* Cover Image Upload */}
@@ -125,7 +127,7 @@ const AddBook = () => {
 
         {/* Submit Button */}
         <button type="submit" className="w-full py-2 bg-green-500 text-white font-bold rounded-md">
-         {
+          {
             isLoading ? <span className="">Adding.. </span> : <span>Add Book</span>
           }
         </button>

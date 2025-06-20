@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import { AuthProvide } from './context/AuthContext'
 import { useEffect, useState } from 'react'
 import Loading from './components/Loading'
+import Contact from './pages/books/contact'
 
 function App() {
 
