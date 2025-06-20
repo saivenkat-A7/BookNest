@@ -41,7 +41,7 @@ const TopSellers = () => {
   const nextRef = useRef(null);
 
   return (
-    <div className="py-10 relative px-4">
+    <div className="py-5 relative px-2">
       {/* Heading */}
       <h2 className="text-3xl font-semibold mb-4 text-left">Top Sellers</h2>
 

@@ -45,9 +45,9 @@ const Navbar = () => {
   }, []);
 
   return (
-    <header className=" fixed w-full bg-blue-600 shadow-sm">
-      <div className="max-w-screen-2xl mx-auto px-4 py-4">
-        <nav className="flex justify-between items-center">
+    <header className="  w-full bg-blue-600 shadow-sm">
+      <div className="max-w-screen-2xl mx-auto px-3 py-5">
+        <nav className="flex justify-between items-center ">
           {/* Left side: Logo + Title */}
           <div className="flex items-center gap-4 md:gap-10 text-white">
             <Link to="/">
