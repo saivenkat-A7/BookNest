@@ -96,16 +96,14 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 ---
 
 ## 👨‍💻 Project Contributors
-I have done my own 
 
-**Name**-KANKIPATI SAI VENKAT
 
 ---
 
 📖 **Happy Reading with BookNest!** 📖
 
 ## 🌐 Live Preview
-
+https://booknest-8-60yz.onrender.com
 
 
 
@@ -116,13 +114,9 @@ I have done my own
 
 ## 📦 Installation & Setup
 
-```bash
-# Clone the repo
-https://github.com/LEKKALA-BHASKAR/BookNest-SmartBridge.git
-cd BookNest-SmartBridge
-
-# Install dependencies
-npm i
-
-# Start the development server
-npm run dev
+### Run frontend 
+1. npm install
+2. npm run dev
+### Run backend
+1. npm install
+2. npm run start;dev
