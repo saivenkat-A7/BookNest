@@ -22,3 +22,5 @@ yarn-debug.log*
 # editor folders
 .vscode/
 .idea/
+
+dist/
