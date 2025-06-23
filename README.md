@@ -96,7 +96,15 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 ---
 
 ## 👨‍💻 Project Contributors
-
+|Name|Role|
+|----|-----|
+|Baswa Bhavana Shanmukhi|Team Lead|
+|----|-----|
+|Kankipati Sai Venkat|Developer|
+|----|-----|
+|Vennela Gogu|Developer|
+|----|-----|
+|Jorungu Gopal Rao|Developer|
 
 ---
 
