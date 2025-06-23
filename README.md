@@ -112,11 +112,19 @@ https://drive.google.com/file/d/1VG3AOy2ZBg7Lzk7FhR1-VGU6QXhqL7Za/view?usp=drive
 
 ![Screenshot 2025-06-23 085428](https://github.com/user-attachments/assets/ee68962b-840b-43cf-bf49-b533948a6bde)
 
-![Screenshot 2025-06-23 085753](https://github.com/user-attachments/assets/b28a8622-dbb5-4a84-9de7-559e246b928a)
+
+![Screenshot 2025-06-23 085455](https://github.com/user-attachments/assets/59028959-eaf6-482b-a337-d049dd6a4c16)
 
 
+![Screenshot 2025-06-23 085521](https://github.com/user-attachments/assets/19d9d6a6-725e-4ec8-9445-cda47cb7e8e3)
+![Screenshot 2025-06-23 085537](https://github.com/user-attachments/assets/6447a7df-de1d-4d83-8e4b-121d8023b037)
+![Screenshot 2025-06-23 085554](https://github.com/user-attachments/assets/a67bd24a-1295-41e2-9bab-bfee30b155f9)
+![Screenshot 2025-06-23 085612](https://github.com/user-attachments/assets/da1eb9c2-1e67-48f2-8775-e0e74cd0892f)![Screenshot 2025-06-23 085642](https://github.com/user-attachments/assets/d7fbc470-f88d-42de-9e5f-5815bf7ecece)
+![Screenshot 2025-06-23 085701](https://github.com/user-attachments/assets/0e6faa4a-a87b-46ac-9a79-83d9f173253a)
+![Screenshot 2025-06-23 085723](https://github.com/user-attachments/assets/f0625e28-e38b-4858-80b1-d922bfb73b58)
 
-
+![Screenshot 2025-06-23 085738](https://github.com/user-attachments/assets/2fece83a-e73a-4e74-86c2-8e733fb4dae9)
+![Screenshot 2025-06-23 085753](https://github.com/user-attachments/assets/78d2e0ec-f376-4e51-ad88-f8c4ad6619c6)
 
 ## 📦 Installation & Setup
 
