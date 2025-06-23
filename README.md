@@ -110,7 +110,9 @@ https://drive.google.com/file/d/1VG3AOy2ZBg7Lzk7FhR1-VGU6QXhqL7Za/view?usp=drive
 ## 📸 Screenshots
 ![Screenshot 2025-06-23 085137](https://github.com/user-attachments/assets/665a8ace-ad2b-413d-9e2a-72a04b1847c3)![Screenshot 2025-06-23 085415](https://github.com/user-attachments/assets/211510f3-7094-48da-a8fb-fd9751032e79)
 
+![Screenshot 2025-06-23 085428](https://github.com/user-attachments/assets/ee68962b-840b-43cf-bf49-b533948a6bde)
 
+![Screenshot 2025-06-23 085753](https://github.com/user-attachments/assets/b28a8622-dbb5-4a84-9de7-559e246b928a)
 
 
 
