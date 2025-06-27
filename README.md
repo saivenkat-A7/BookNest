@@ -109,6 +109,9 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 
 ## 🌐 Live Preview
 https://booknest-8-60yz.onrender.com
+**Admin login username and password**
+user name-->saivenkat
+password--->saivenkaT123
 ## video demo
 https://drive.google.com/file/d/1VG3AOy2ZBg7Lzk7FhR1-VGU6QXhqL7Za/view?usp=drive_link
 
