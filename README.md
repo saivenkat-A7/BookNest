@@ -141,4 +141,4 @@ https://drive.google.com/file/d/1VG3AOy2ZBg7Lzk7FhR1-VGU6QXhqL7Za/view?usp=drive
 2. npm run dev
 ### Run backend
 1. npm install
-2. npm run start;dev
+2. npm run start:dev
